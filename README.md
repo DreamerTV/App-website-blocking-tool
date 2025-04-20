@@ -3,4 +3,5 @@
 ![螢幕擷取畫面 2025-04-20 235116](https://github.com/user-attachments/assets/cb5708f8-4c03-450e-9a56-0573666d1bc4)
 
 Discord遊玩狀態顯示
+
 ![螢幕擷取畫面 2025-04-20 235154](https://github.com/user-attachments/assets/8ed782d4-5c81-48bb-92ff-58b28851e683)
