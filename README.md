@@ -9,7 +9,7 @@ Discord遊玩狀態顯示
 # 忘記密碼
 刪除 appblocker.db 及 appblocker.key 即可清除密碼
 
-# 請我喝杯咖】
+# 請我喝杯咖啡
 
 作者的IG/YT: https://linktr.ee/dreamer_tv
 
