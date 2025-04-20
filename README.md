@@ -6,7 +6,11 @@ Discord遊玩狀態顯示
 
 ![螢幕擷取畫面 2025-04-20 235154](https://github.com/user-attachments/assets/8ed782d4-5c81-48bb-92ff-58b28851e683)
 
-# 【忘記密碼】
+# 忘記密碼
 刪除 appblocker.db 及 appblocker.key 即可清除密碼
 
-# 【請我喝杯咖啡】
+# 請我喝杯咖】
+
+作者的IG/YT: https://linktr.ee/dreamer_tv
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dreamtv)
